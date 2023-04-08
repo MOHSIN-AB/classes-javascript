@@ -1,0 +1,17 @@
+
+
+Today topics
+Placing scripts
+1- External Js 2- Internal Js 3- Inline Js
+
+Commenting
+1- single line // 2- multi line
+
+Events: link
+Event Event is basically is an action that can be performed by user. In simple words, any activity that happen on website due to user called event. Event Handler Event handler is just like a function, this will run only when that event performed by user.
+
+Events: button
+1-onclick
+
+Events: mouse
+1-onMouseOver 2-onMouseOut
